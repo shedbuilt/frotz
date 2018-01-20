@@ -1,5 +1,5 @@
 NAME=frotz
 VERSION=2.45pre
-REVISION=1
+REVISION=2
 SRC=https://github.com/DavidGriffith/frotz.git
-REF=b8fa3db71594f54ec35fbc3acb65ae85b3512633
+REF=refs/heads/master
