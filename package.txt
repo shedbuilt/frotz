@@ -1,5 +1,8 @@
 NAME=frotz
-VERSION=2.45pre
-REVISION=2
+VERSION=GIT_MASTER
+REVISION=3
+LICENSE=GPL-2.0-or-later
 SRC=https://github.com/DavidGriffith/frotz.git
 REF=refs/heads/master
+BUILDDEPS=ncurses
+INSTALLDEPS=ncurses
