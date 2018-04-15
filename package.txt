@@ -1,6 +1,6 @@
 NAME=frotz
 VERSION=GIT_MASTER
-REVISION=3
+REVISION=1
 LICENSE=GPL-2.0-or-later
 SRC=https://github.com/DavidGriffith/frotz.git
 REF=refs/heads/master
