@@ -1,6 +1,6 @@
 NAME=frotz
 VERSION=b0db901f
-REVISION=2
+REVISION=3
 LICENSE=GPL-2.0-or-later
 SRC=https://gitlab.com/DavidGriffith/frotz.git
 COMMIT=b0db901f1300cc733dc201f4d35dfdf753e9a472
